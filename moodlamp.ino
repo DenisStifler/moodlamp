@@ -1,7 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 #define PIN 3
 #define NUMPIXELS 8*8*8
-#define RELAY 4
 #ifdef __AVR__
   #include <avr/power.h>
 #endif
